@@ -17,6 +17,7 @@ public class Main {
         }
         
         System.out.println("Ho testato il for ed il for each");
+        System.out.println("ciao");
 
 	}
 
