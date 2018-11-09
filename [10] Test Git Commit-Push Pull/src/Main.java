@@ -15,6 +15,8 @@ public class Main {
         for (int temp : arr) {
             System.out.println("Arr[foreach] -> " + temp);
         }
+        
+        System.out.println("Ho testato il for ed il for each");
 
 	}
 
