@@ -4,8 +4,7 @@ public class Test {
 	String s = "ciao";
 	
 
-	String str = null;
-	
+	String str = null; 
 	Double d; 
 
 
