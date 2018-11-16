@@ -8,7 +8,7 @@ public class Test {
 	Double d; 
 	
 	public Test() { 
-		
+		System.out.print("ciao");
 	}
 
 
