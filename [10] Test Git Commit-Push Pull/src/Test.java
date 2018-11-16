@@ -6,11 +6,10 @@ public class Test {
 
 	String str = null; 
 	Double d; 
-	
-	public Test() { 
-		System.out.print("ciao");
+
+	public Test(int x) {
+		
 	}
 
-
-
+	
 }
