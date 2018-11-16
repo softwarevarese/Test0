@@ -7,6 +7,9 @@ public class Test {
 	String str = null; 
 	Double d; 
 
+	public Test(int x) {
+		
+	}
 
-
+	
 }
